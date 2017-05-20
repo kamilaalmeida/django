@@ -1,2 +1,4 @@
 # django
 workshop django
+
+fghyujik
